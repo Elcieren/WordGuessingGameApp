@@ -104,7 +104,7 @@
         </td>
         <td style="text-align: center; width: 16.67%;">
             <h4 style="font-size: 14px;">Tahmin Hakki Doldugunda Oyun biter</h4>
-            <img src="https://github.com/user-attachments/assets/08348c5a-d9dd-4bbb-8ddb-a80189b183c8" style="width: 100%; height: auto;">
+            <img src="https://github.com/user-attachments/assets/2a000fa9-57f9-46d3-b645-29c8f81237f5" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
             <h4 style="font-size: 14px;">Tum harfleri bulursa oyun biter</h4>
